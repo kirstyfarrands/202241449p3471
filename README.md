@@ -6,5 +6,5 @@ The History of the Glasgow Clyde
 Glasgow then and now.
 Here is a comparison of the river Clyde from 1917 and 1922!
 </p>
-<body>
+</body>
 </html>
