@@ -1,4 +1,5 @@
 <html>
+<head>
 <style>
   body {
     background-color: #165FDE; /* Dark Blue */
@@ -12,7 +13,10 @@ h1 {
     border-bottom: 2px solid white; /* The white line */
     margin: 0;                /* Resets default browser margins */
   }
-Edinburgh City
+  </style>
+  </head>
+  <body>
+  Edinburgh City
 <h1/>
 <h2>
 Scotland's capital
