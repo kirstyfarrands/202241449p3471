@@ -1,4 +1,10 @@
 <html>
+<h1> 
+Edinburgh City
+<h1/>
+<h2>
+Scotland's capital
+<h2/>
 <body>
 <p>
 This is a map of some of Edinburgh's famous landmarks, which are popular tourist attractions.  
