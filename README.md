@@ -5,8 +5,7 @@
     margin: 0 250px;           /* 250px side margins */
     font-family: sans-serif;
   }
-<h1> 
- {
+h1 {
     font-size: 24px;
     color: #333;
     padding: 20px;            /* Adds space all around the text */
