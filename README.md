@@ -1,4 +1,10 @@
 <html>
+<style>
+  body {
+    background-color: #165FDE; /* Dark Blue */
+    margin: 0 250px;           /* 250px side margins */
+    font-family: sans-serif;
+  }
 <h1> 
 Edinburgh City
 <h1/>
