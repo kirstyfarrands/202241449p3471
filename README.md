@@ -16,8 +16,10 @@ h1 {
   </style>
   </head>
   <body>
+ 
+<h1>
   Edinburgh City
-<h1/>
+  <h1/>
 <h2>
 Scotland's capital
 <h2/>
