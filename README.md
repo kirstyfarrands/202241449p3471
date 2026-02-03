@@ -6,6 +6,13 @@
     font-family: sans-serif;
   }
 <h1> 
+ {
+    font-size: 24px;
+    color: #333;
+    padding: 20px;            /* Adds space all around the text */
+    border-bottom: 2px solid white; /* The white line */
+    margin: 0;                /* Resets default browser margins */
+  }
 Edinburgh City
 <h1/>
 <h2>
