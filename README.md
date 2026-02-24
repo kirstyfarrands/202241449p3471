@@ -27,8 +27,6 @@ Scotland's capital
 <p>
 This is a map of some of Edinburgh's famous landmarks, which are popular tourist attractions.  
 </p>
-<iframe src="https://uploads.knightlab.com/storymapjs/a1f3f4908b7efe1a52b2e288cc47f8b0/story-map-1/index.html" frameborder="0" width="100%" height="800"></iframe>
-</noscript></div>
-  <iframe src='https://cdn.knightlab.com/libs/timeline3/latest/embed/index.html?source=v2%3A2PACX-1vRslPxuACDV0Ur_UeIzVhVOY8SoFUfPL2vZo_KDJRSA_lhVYz52zd3r5BEagynNwY5-1Lzca7l4QKxO&font=Default&lang=en&initial_zoom=2&width=100%25&height=650' width='100%' height='650' webkitallowfullscreen mozallowfullscreen allowfullscreen frameborder='0'></iframe>
+<iframe src="https://cdn.knightlab.com/libs/storyline/latest/embed/index.html?dataURL=https%3A%2F%2Fdocs.google.com%2Fspreadsheets%2Fd%2Fe%2F2PACX-1vSylxhqjDWhg-usZKfe8IM-UHBNrVZrkQxU6L3t3jntKkKNlNLjZMHInedAUSSXC-LjB-_qrPN8ectq%2Fpubhtml%3Fgid%3D856355046%26single%3Dtrue&amp;dataYCol=views&amp;dataXCol=year&amp;dataDateFormat=%25Y&amp;chartDateFormat=%25Y&amp;chartYLabel=views&amp;sliderCardTitleCol=performer&amp;sliderCardTextCol=text" style="width:100%;height:650px;" frameborder="0" marginwidth="0" marginheight="0" vspace="0" hspace="0" spellcheck="false"></iframe>
 </body>
 </html>
