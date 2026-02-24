@@ -2,7 +2,7 @@
 <head>
 <style>
   body {
-    background-color: #165FDE; /* Dark Blue */
+    background-color: #faf9f2; /* Dark Blue */
     margin: 0 250px;           /* 250px side margins */
     font-family: sans-serif;
   }
