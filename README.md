@@ -28,5 +28,6 @@ Scotland's capital
 This is a map of some of Edinburgh's famous landmarks, which are popular tourist attractions.  
 </p>
 <iframe src="https://cdn.knightlab.com/libs/storyline/latest/embed/index.html?dataURL=https%3A%2F%2Fdocs.google.com%2Fspreadsheets%2Fd%2Fe%2F2PACX-1vSylxhqjDWhg-usZKfe8IM-UHBNrVZrkQxU6L3t3jntKkKNlNLjZMHInedAUSSXC-LjB-_qrPN8ectq%2Fpubhtml%3Fgid%3D856355046%26single%3Dtrue&amp;dataYCol=views&amp;dataXCol=year&amp;dataDateFormat=%25Y&amp;chartDateFormat=%25Y&amp;chartYLabel=views&amp;sliderCardTitleCol=performer&amp;sliderCardTextCol=text" style="width:100%;height:650px;" frameborder="0" marginwidth="0" marginheight="0" vspace="0" hspace="0" spellcheck="false"></iframe>
+  <iframe width="1440px" height="1080px" src="https://datausa.io/profile/geo/minneapolis-mn/demographics/foreign_born_population?viz=true" frameborder="0" ></iframe>
 </body>
 </html>
